@@ -37,11 +37,11 @@ My focus is the intersection of **data curation**, **modern data lakes**, and **
 
 ---
 <!-- ═══════════════════════════════════════════════════════════
-PASTE_ARTICLE_1_IMAGE_URL_HERE below with that URL
+IMAGE_URL_HERE-URL
      ═══════════════════════════════════════════════════════════ -->
 
 <a href="https://medium.com/@brianzupko/ai-isnt-failing-because-models-aren-t-good-enough-ai-is-failing-because-the-data-isn-t-ready-79447e92a13d">
-  <img src="zupko451/image/ai-1.jpg" alt="AI isn't failing because models aren't good enough" width="100%" />
+  <img src="/image/ai-1.jpg" alt="AI isn't failing because models aren't good enough" width="100%" />
 </a>
 
 #### [AI isn't failing because models aren't good enough — AI is failing because the data isn't ready.](https://medium.com/@brianzupko/ai-isnt-failing-because-models-aren-t-good-enough-ai-is-failing-because-the-data-isn-t-ready-79447e92a13d)
