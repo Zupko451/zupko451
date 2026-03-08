@@ -44,7 +44,7 @@ My focus is the intersection of **data curation**, **modern data lakes**, and **
 
 Most enterprises are racing to deploy LLMs while ignoring a fundamental truth: models are only as good as the data behind them. This article explores why AI hallucination and failure is a **data readiness problem** — and what modern data infrastructure must look like to fix it.
 
-`#AI` `#DataReadiness` `#LLM` `#EnterpriseAI` `#DataFabric`
+`#AI` `#DataReadiness` `IBM Content Aware Storage` `#LLM` `#EnterpriseAI` `#DataFabric` `IBM Intelligent Data Fabric` 
 
 ---
 
