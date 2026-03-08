@@ -55,7 +55,7 @@ Most enterprises are racing to deploy LLMs while ignoring a fundamental truth: m
 
 Data lakes that were never properly curated become data swamps — unusable, untrusted, ungoverned. This piece maps a path from chaos to **AI Reservoirs**: purpose-built, intelligently governed data environments that fuel reliable, production-grade AI workloads.
 
-`#DataLake` `#DataSwamp` `#IntelligentStorage` `#AIInfrastructure` `#DataCuration`
+`#DataLake` `#DataSwamp` `#IntelligentStorage` `#IBM Content Aware Storage` `#AIInfrastructure` `#DataCuration`
 
 ---
 
@@ -89,7 +89,7 @@ Apple         → HPC Research enviroments
 ## 📬 Connect
 
 - 📝 **Writing:** [medium.com/@brianzupko](https://medium.com/@brianzupko)
-- 💼 **LinkedIn:** [linkedin.com/in/brianzupko](https://linkedin.com/in/brianzupko) *(update with your actual URL)*
+- 💼 **LinkedIn:** [linkedin.com/in/brianzupko](https://linkedin.com/in/brianzupko)
 - 🐙 **GitHub:** You're already here.
 
 ---
