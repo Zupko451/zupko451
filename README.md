@@ -46,11 +46,6 @@ IMAGE_URL_HERE-URL
 </a>
 
 #### [AI isn't failing because models aren't good enough — AI is failing because the data isn't ready.](https://medium.com/@brianzupko/ai-isnt-failing-because-models-aren-t-good-enough-ai-is-failing-because-the-data-isn-t-ready-79447e92a13d)
-**Feb 2025**
-
-> *Your AI Has Read the Entire Internet. Zero of Your Files. And It Will Absolutely Fake It Until You Notice.*
-
-#### [AI isn't failing because models aren't good enough — AI is failing because the data isn't ready.](https://medium.com/@brianzupko/ai-isnt-failing-because-models-aren-t-good-enough-ai-is-failing-because-the-data-isn-t-ready-79447e92a13d)
 
 **Feb 2025**
 
