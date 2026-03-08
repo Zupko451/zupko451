@@ -1,12 +1,12 @@
 <!-- ============================================================
-     BZ — GitHub Profile README
+     BRIAN ZUPKO — GitHub Profile README
      ============================================================ -->
 
 <div align="center">
 
 # Brian Zupko
 
-### Senior Technical Specialist · IBM  
+### Senior Technical Specialist · IBM
 **Data Curation | Intelligent Data Fabric | AI Readiness**
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@brianzupko)
@@ -21,7 +21,7 @@
 
 I'm a Senior Technical Specialist at IBM with a career spanning **IBM, HP Enterprise, Dell/EMC, and Apple** — bringing deep expertise in enterprise data architecture, storage infrastructure, and AI enablement.
 
-My focus is on the intersection of **data curation**, **modern data lakes**, and **intelligent data fabric** — specifically how organizations must modernize their foundational data infrastructure before AI can deliver real business value.
+My focus is the intersection of **data curation**, **modern data lakes**, and **intelligent data fabric** — specifically how organizations must modernize their foundational data infrastructure before AI can deliver real business value.
 
 > *"AI doesn't fail because models aren't smart enough. It fails because the data isn't ready."*
 
@@ -37,25 +37,50 @@ My focus is on the intersection of **data curation**, **modern data lakes**, and
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════
+     ARTICLE 1 IMAGE — HOW TO REPLACE:
+     1. Open this article on Medium in your browser
+     2. Right-click the big cover image at the top of the article
+     3. Click "Copy image address" (Chrome) or "Copy Image Link" (Safari)
+     4. Replace PASTE_ARTICLE_1_IMAGE_URL_HERE below with that URL
+     ═══════════════════════════════════════════════════════════ -->
+
+<a href="https://medium.com/@brianzupko/ai-isnt-failing-because-models-aren-t-good-enough-ai-is-failing-because-the-data-isn-t-ready-79447e92a13d">
+  <img src="PASTE_ARTICLE_1_IMAGE_URL_HERE" alt="AI isn't failing because models aren't good enough" width="100%" />
+</a>
+
 #### [AI isn't failing because models aren't good enough — AI is failing because the data isn't ready.](https://medium.com/@brianzupko/ai-isnt-failing-because-models-aren-t-good-enough-ai-is-failing-because-the-data-isn-t-ready-79447e92a13d)
 **Feb 2025**
 
 > *Your AI Has Read the Entire Internet. Zero of Your Files. And It Will Absolutely Fake It Until You Notice.*
 
-Most enterprises are racing to deploy LLMs while ignoring a fundamental truth: models are only as good as the data behind them. This article explores why AI hallucination and failure isn't a model problem — it's a **data readiness problem** — and what modern data infrastructure must look like to fix it.
+Most enterprises are racing to deploy LLMs while ignoring a fundamental truth: models are only as good as the data behind them. This article explores why AI hallucination and failure is a **data readiness problem** — and what modern data infrastructure must look like to fix it.
 
 `#AI` `#DataReadiness` `#LLM` `#EnterpriseAI` `#DataFabric`
 
 ---
 
-#### [From Data Swamps to AI Reservoirs](https://medium.com/@brianzupko)
-**Nov 2025** · 📌 *Pinned*
+<!-- ═══════════════════════════════════════════════════════════
+     ARTICLE 2 IMAGE — HOW TO REPLACE:
+     1. Open the "From Data Swamps to AI Reservoirs" article on Medium
+     2. Right-click the big cover image at the top of the article
+     3. Click "Copy image address" (Chrome) or "Copy Image Link" (Safari)
+     4. Replace PASTE_ARTICLE_2_IMAGE_URL_HERE below with that URL
+     Also update the href link with the full article URL
+     ═══════════════════════════════════════════════════════════ -->
+
+<a href="PASTE_ARTICLE_2_FULL_URL_HERE">
+  <img src="PASTE_ARTICLE_2_IMAGE_URL_HERE" alt="From Data Swamps to AI Reservoirs" width="100%" />
+</a>
+
+#### [From Data Swamps to AI Reservoirs](PASTE_ARTICLE_2_FULL_URL_HERE)
+**Nov 2024** · 📌 *Pinned*
 
 > *Building Enterprise AI Infrastructure on an Intelligent Storage Foundation*
 
 Data lakes that were never properly curated become data swamps — unusable, untrusted, ungoverned. This piece maps a path from chaos to **AI Reservoirs**: purpose-built, intelligently governed data environments that fuel reliable, production-grade AI workloads.
 
-`#DataLake` `#DataSwamp` `#IntelligentStorage` `#IBM Content Aware Storage` `#AIInfrastructure` `#DataCuration`
+`#DataLake` `#DataSwamp` `#IntelligentStorage` `#AIInfrastructure` `#DataCuration`
 
 ---
 
@@ -63,7 +88,7 @@ Data lakes that were never properly curated become data swamps — unusable, unt
 
 ---
 
-## Focus Areas
+##  Focus Areas
 
 | Domain | What I Explore |
 |---|---|
@@ -79,9 +104,9 @@ Data lakes that were never properly curated become data swamps — unusable, unt
 
 ```
 IBM           → Senior Technical Specialist       (Current)
-HP Enterprise → Enterprise Solutions              
-Dell / EMC    → Storage & Infrastructure          
-Apple         → HPC Research enviroments             
+HP Enterprise → Enterprise Solutions
+Dell / EMC    → Storage & Infrastructure
+Apple         → HPC-Research Environments 
 ```
 
 ---
