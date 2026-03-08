@@ -88,8 +88,8 @@ Data lakes that were never properly curated become data swamps — unusable, unt
 
 ```
 IBM           → Senior Technical Specialist       (Current)
-HP Enterprise → Enterprise Solutions
-Dell / EMC    → Storage & Infrastructure
+HP Enterprise → Sr. Consulting Engieer Hybrid CLoud 
+Dell / EMC    → Sr. Adviory Engineer -data center/hybrid cloud
 Apple         → HPC-Research Environments 
 ```
 
