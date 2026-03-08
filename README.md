@@ -37,18 +37,6 @@ My focus is the intersection of **data curation**, **modern data lakes**, and **
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
-     ARTICLE 1 IMAGE — HOW TO REPLACE:
-     1. Open this article on Medium in your browser
-     2. Right-click the big cover image at the top of the article
-     3. Click "Copy image address" (Chrome) or "Copy Image Link" (Safari)
-     4. Replace PASTE_ARTICLE_1_IMAGE_URL_HERE below with that URL
-     ═══════════════════════════════════════════════════════════ -->
-
-<a href="https://medium.com/@brianzupko/ai-isnt-failing-because-models-aren-t-good-enough-ai-is-failing-because-the-data-isn-t-ready-79447e92a13d">
-  <img src="PASTE_ARTICLE_1_IMAGE_URL_HERE" alt="AI isn't failing because models aren't good enough" width="100%" />
-</a>
-
 #### [AI isn't failing because models aren't good enough — AI is failing because the data isn't ready.](https://medium.com/@brianzupko/ai-isnt-failing-because-models-aren-t-good-enough-ai-is-failing-because-the-data-isn-t-ready-79447e92a13d)
 **Feb 2025**
 
@@ -59,19 +47,6 @@ Most enterprises are racing to deploy LLMs while ignoring a fundamental truth: m
 `#AI` `#DataReadiness` `#LLM` `#EnterpriseAI` `#DataFabric`
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════
-     ARTICLE 2 IMAGE — HOW TO REPLACE:
-     1. Open the "From Data Swamps to AI Reservoirs" article on Medium
-     2. Right-click the big cover image at the top of the article
-     3. Click "Copy image address" (Chrome) or "Copy Image Link" (Safari)
-     4. Replace PASTE_ARTICLE_2_IMAGE_URL_HERE below with that URL
-     Also update the href link with the full article URL
-     ═══════════════════════════════════════════════════════════ -->
-
-<a href="PASTE_ARTICLE_2_FULL_URL_HERE">
-  <img src="PASTE_ARTICLE_2_IMAGE_URL_HERE" alt="From Data Swamps to AI Reservoirs" width="100%" />
-</a>
 
 #### [From Data Swamps to AI Reservoirs](PASTE_ARTICLE_2_FULL_URL_HERE)
 **Nov 2024** · 📌 *Pinned*
