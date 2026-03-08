@@ -1,6 +1,5 @@
 <!-- ============================================================
-     BRIAN ZUPKO — GitHub Profile README
-     Copy this entire file into your GitHub profile repo README.md
+     BZ — GitHub Profile README
      ============================================================ -->
 
 <div align="center">
@@ -64,7 +63,7 @@ Data lakes that were never properly curated become data swamps — unusable, unt
 
 ---
 
-## 🧠 Focus Areas
+## Focus Areas
 
 | Domain | What I Explore |
 |---|---|
@@ -82,7 +81,7 @@ Data lakes that were never properly curated become data swamps — unusable, unt
 IBM           → Senior Technical Specialist       (Current)
 HP Enterprise → Enterprise Solutions              
 Dell / EMC    → Storage & Infrastructure          
-Apple         → Technical Specialist              
+Apple         → HPC Research enviroments             
 ```
 
 ---
